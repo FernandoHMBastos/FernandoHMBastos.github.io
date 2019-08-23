@@ -1,0 +1,38 @@
+@import url(https://fonts.googleapis.com/css?family=Fira+Sans);
+
+body {
+  font-family: "Fira Sans";
+}
+
+.justified {
+  text-align: justify;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.text-black {
+  color: #24292e;
+}
+
+.text-bold {
+  font-weight: bold;
+}
+
+@media print
+{    
+    .no-print, .no-print *
+    {
+        display: none !important;
+    }
+    .pagebreak { page-break-before: always; } /* page-break-after works, as well */
+}
+
+@media screen
+{    
+    .only-print, .only-print *
+    {
+        display: none !important;
+    }
+}
