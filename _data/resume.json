@@ -1,18 +1,18 @@
 {
-  "name": "Ramon Maciel",
+  "name": "Fernando Bastos",
   "meta": {
     "format": "FRESH@0.6.0",
     "version": "0.1.0"
   },
   "info": {
-    "label": "Software Engineer",
-    "brief": "I am a hands-on software engineer, passionate about code quality, design and innovation. I am known to be a proactive learner, with great planning and negotiation skills and the capability of successfully handling multiple tasks simultaneously",
+    "label": "Software Developer",
+    "brief": "I'm a Developer and full time nerd juggling work life and studies, trying to find some time to pursue my aspirations of a career in Cybersecurity.",
     "image": "public/img/avatar.jpg"
   },
   "contact": {
-    "website": "https://cmaciel.com",
-    "phone": "+55 71 99919 9330",
-    "email": "ramoncmaciel@gmail.com",
+    "website": "https://fernandohmbastos.github.io/",
+    "phone": "+55 19 99284 1953",
+    "email": "fernando.hm.bastos@gmail.com",
     "other": []
   },
   "location": {
@@ -26,14 +26,14 @@
     {
       "label": "",
       "network": "GitHub",
-      "user": "ramongtx",
-      "url": "https://github.com/ramongtx"
+      "user": "FernandoHMBastos",
+      "url": "https://github.com/FernandoHMBastos"
     },
     {
       "label": "",
       "network": "Linkedin",
-      "user": "Ramon",
-      "url": "https://www.linkedin.com/pub/ramon-carvalho-maciel/7a/bb8/b3a"
+      "user": "Fernando H M Bastos",
+      "url": "https://www.linkedin.com/in/fernando-h-m-bastos-58aab168/"
     }
   ],
   "employment": {
@@ -42,56 +42,46 @@
       {
         "employer": "I.Systems",
         "url": "http://www.i.systems.com.br/en/",
-        "position": "Tech Lead",
-        "summary": "Technical leadership of systems for advanced process control and business intelligence for industries, involving both desktop and cloud applications. Development in Go and TypeScript and deployment in AWS",
-        "start": "2018-07",
-        "keywords": ["Go", "TypeScript", "ReactJS", "Angular", "Full-Stack", "AWS"],
+        "position": "Software Developer",
+        "summary": "Development and maintenace of an intelligent industrial control software and reestructuring the products licenses renewal process to use TOTP (Time-Based One Time Passwords). Experience as developer for the company’s flagship products, Leaf, SmartFlow & Seeds,
+        softwares for control and optimization of industrial processes, built with C++, Qt and gRPC.",
+        "start": "2018-04",
+        "end": "2019-08",
+        "keywords": ["C++", "Qt", "Desktop", "gRPC"],
         "highlights": [
-          "Developing an industry-focused business intelligence software from conception to delivery, using Go, React, AngularJS, InfluxDB, PostgreSQL and GRPC",
-          "Responsible for the introduction of DevOps culture and tools to the web development team, setting up the AWS environment, CircleCI and Heroku",
-          "Leadership of the back-end development team and tech leadership of web projects"
-        ]
-      },
-      {
-        "employer": "HE:Labs",
-        "url": "https://helabs.com/us/",
-        "position": "Web Developer",
-        "summary": "Work as web developer and project manager focused at delivering full production-ready systems developed from begining to end using Ruby on Rails, ElasticSearch, MongoDB and PostgreSQL",
-        "start": "2017-07",
-        "end": "2018-07",
-        "keywords": ["Ruby on Rails", "iOS", "Scrum", "Full-Stack", "Heroku"],
-        "highlights": [
-          "Built large education ERP for the largest private educational company in the world",
-          "Fully remote work with multiple teams of developers, designers and managers around the world",
-          "Responsibility over estimations, deliveries and direct contact with clients and stakeholders"
         ]
       },
       {
         "employer": "CoffeeBean Tech",
         "url": "https://site.coffeebeantech.com",
-        "position": "Software Engineer",
-        "summary": "Engaged on developing REST APIs, business intelligence tools, Social Marketing engines and iOS applications for the Social-ID Marketing Platform. Coding mostly in Ruby (Rails), JavaScript (AngularJS) and Objective-C (iOS)",
+        "position": "Support Analyst",
+        "summary": "Working helping Sales and R&D with development, client support and documentation. During this time I had the chance to work helping the company with some security and data privacy compliances and policies like EU's General Data Protection Regulation (GDPR) and drafting the Cloud Security Alliance's Security, Trust & Assurance Registry (CSA STAR) self-assesment.",
         "start": "2015-07",
         "end": "2017-07",
-        "keywords": ["Ruby on Rails", "Swift", "Objective-C", "JavaScript", "AWS"],
+        "keywords": ["Ruby on Rails", "Swift", "NodeJS", "JavaScript", "IBM Watson"],
         "highlights": [
-          "Responsible for maintaining a large iOS SDK and several apps, both in Swift and Objective-C",
-          "Occasionally worked as Sales Engineer, being responsible for a successful partnership with IBM",
-          "Worked with a cross-cultural/international team of engineers over a large monolithic Ruby on Rails application"
         ]
       },
       {
-        "employer": "Chefia",
-        "url": "https://www.linkedin.com/company/9177292",
-        "position": "Co-founder and Developer",
-        "summary": "We have created Chefia, a set of tools to improve restaurants' costumer service and overall clients' experience through a complete overall of how orders are dealt with, using Ruby, Swift, Objective-C and Swift",
+        "employer": "Saffe Payments",
+        "url": "",
+        "position": "iOS Developer",
+        "summary": "Working as iOS Developer for Saffe, a Germany based start-up developing an app using world-class facial recognition technology to make payments easier and more secure.",
+        "start": "2016-04",
+        "end": "2015-10",
+        "keywords": ["Swift", "Xcode", "Facial Recognition"],
+        "highlights": [
+        ]
+      },
+      {
+        "employer": "Beer Love",
+        "url": "",
+        "position": "Co-Founder & iOS Developer",
+        "summary": "Beer Love is an app where you can discover new beer, share you experiences and rate the new beer you try. Intending to expand the beer culture, it brings breweries and users closer by promoting challenges and prizes.",
         "start": "2014-06",
         "end": "2015-07",
-        "keywords": ["Ruby on Rails", "Swift", "Objective-C", "MarionetteJS"],
+        "keywords": ["Swift", "Xcode", "Facial Recognition"],
         "highlights": [
-          "Created cross-platform app from the ground up, with native versions for iOS and Android",
-          "Company investment earned as a prize from Apple Developer Academy",
-          "Startup ended up unsuccessful for commercial reasons"
         ]
       }
     ]
@@ -148,69 +138,65 @@
     "degree": "BEng",
     "history": [
       {
-        "institution": "University of Campinas",
-        "title": "Computer Engineering",
+        "institution": "Desec Security",
+        "title": "Professional Penetration Tester",
         "url": "https://www.unicamp.br/unicamp/",
-        "start": "2009-01",
-        "end": "2015-01",
-        "summary": "Graduate of University of Campinas, with participation in exchange programs in France (ENSIIE) and in Australia (ANU)",
+        "start": "2019",
+        "end": "Ongoing",
+        "summary": "This course aims to form a complete professional pentester teaching from basic concepts of the analysis process & technologies to advanced techniques where the students will develop their own tools and exploits. The course has an unique methodology divided between Theory, Research and Practice emulating a real enviroment at all times.",
         "curriculum": ["Data Algorithms", "Optimization", "Software Engineering", "C", "C++", "Compilers", "HTTP", "TCP/IP"]
       },
       {
-        "institution": "Apple and Instituto Eldorado",
-        "title": "Apple Developer Academy",
+        "institution": "Unicamp",
+        "title": "B.Sc. Degree in Computer Science",
         "url": "http://www.bepid.com.br/campinas/",
-        "start": "2013-06",
-        "end": "2014-07",
-        "summary": "Completed Apple-run course on iOS development, first of its type in Brazil. Course counted with classes on programming, design and business",
+        "start": "2014",
+        "end": "Ongoing",
+        "summary": "Ongoing B.Sc. Degree in Computer Science by the University of Campinas. The degree covers a broad variety of subjects such as Programming languages, OS, Computer Networks, Computer Graphics, Databases, A.I, Software Engineering, Computer Architectures, among others.",
         "curriculum": ["Swift", "Objective-C"]
       },
       {
-        "institution": "ENSIIE",
-        "title": "Computer Engineering",
+        "institution": "Apple Developer Academy",
+        "title": "iOS Developer",
         "url": "https://www.ensiie.fr/",
-        "start": "2011-06",
-        "end": "2012-06",
-        "summary": "12 months as a Masters student at ENSIIE with full scholarship. Studies focused in the fields of artificial intelligence and virtual reality",
+        "start": "2015",
+        "end": "2016",
+        "summary": "BEPiD - Program created in a partnership between Instituto de Pesquisas Eldorado and Apple to train students in the multiple areas necessary to develop products for Apple platforms. Some of the areas are: Objective C & Swift For iOS, Design & UX, Project Management Techniques, Presentation & Communication Techiniques, Market Research",
         "curriculum": ["Virtual Reality", "Artificial Intelligence", "Machine Learning", "Middleware"]
-      },
-      {
-        "institution": "ANU - Australian National University",
-        "title": "Computer Engineering",
-        "url": "https://anu.edu.au/",
-        "start": "2012-06",
-        "end": "2013-06",
-        "summary": "12 months as a Masters student at ANU with full scholarship. Studies focused on project management and software engineering",
-        "curriculum": ["Projecty Management", "Optimization", "Software Engineering", "Java"]
       }
     ]
   },
   "skills": {
     "sets": [
       {
-        "name": "Back-End",
-        "level": "expert",
-        "skills": ["Ruby on Rails", "TypeScript", "NodeJS", "Golang", "Java"]
+        "name": "C++",
+        "level": "advanced",
+        "skills": ["C++", "Qt"]
+      },
+      {
+        "name": "iOS Development",
+        "level": "advanced",
+        "skills": ["Swift", "Objective-C"]
+      },
+      {
+        "name": "General Programming",
+        "level": "proficient",
+        "skills": ["Javascript", "Lisp", "Ruby on Rails"]
       },
       {
         "name": "Tools",
-        "level": "expert",
-        "skills": ["Git", "DevOps", "SQL", "NoSQL"]
+        "level": "proficient",
+        "skills": ["Git", "Linux", "SQL", "NoSQL"]
       },
       {
-        "name": "Front-End",
-        "level": "advanced",
-        "skills": ["ReactJS", "AngularJS", "JQuery"]
+        "name": "Compliance",
+        "level": "intermediate",
+        "skills": ["GDPR", "CSA-Star", "OWASP"]
       },
       {
         "name": "Soft Skills",
-        "level": "advanced",
-        "skills": ["Scrum", "Kanban", "Management", "Negociation"]
-      },
-      {
-        "name": "Mobile",
-        "level": "advanced",
-        "skills": ["Swift", "Objective-C", "C#", "Android"]
+        "level": "intermediate",
+        "skills": ["Info Sec", "Scrum", "Networking"]
       }
     ]
   },
@@ -244,8 +230,8 @@
       "level": "advanced"
     },
     {
-      "language": "French",
-      "level": "intermediate"
+      "language": "Spanish",
+      "level": "begginer"
     }
   ]
 }

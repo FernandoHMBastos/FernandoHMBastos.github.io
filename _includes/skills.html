@@ -3,14 +3,14 @@
     <div class="skills">
         {% for skill_set in site.data.resume.skills.sets %}
         {% assign percentage = 0.25 %}
-        {% if skill_set.level == "expert" %}
-        {% assign percentage = 1 %}
+        {% if skill_set.level == "intermediate" %}
+        {% assign percentage = 0.40 %}
         {% endif %}
         {% if skill_set.level == "advanced" %}
-        {% assign percentage = 0.75 %}
+        {% assign percentage = 0.90 %}
         {% endif %}
         {% if skill_set.level == "proficient" %}
-        {% assign percentage = 0.50 %}
+        {% assign percentage = 0.70 %}
         {% endif %}
         <div class="item-skills" data-percent="{{ percentage }}">
             {{ skill_set.name }}
@@ -22,12 +22,12 @@
         <div class="skills-legend clearfix">
             <div class="legend-left legend">Basic</div>
             <div class="legend-left legend">
-                <span>Proficient</span>
+                <span>Intermediate</span>
             </div>
             <div class="legend-right legend">
-                <span>Advanced</span>
+                <span>Proficient</span>
             </div>
-            <div class="legend-right legend">Expert</div>
+            <div class="legend-right legend">Advanced</div>
         </div>
     </div>
 </div>

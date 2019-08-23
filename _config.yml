@@ -31,11 +31,11 @@ projects:
 social_media:
   # behance: your_username
   # dribbble: your_username
-  facebook: ramonmac
+  facebook: fernandobastos.90
   # hackerrank: your_username
   # instagram: your_username
   # keybase: your_username
-  linkedin: ramongtx
+  linkedin: fernando-h-m-bastos-58aab168
   # mastodon: your_username
   # medium: your_username
   # stackoverflow: your_user_id
@@ -47,22 +47,19 @@ social_media:
   # youtube: your_username
 
 topics:
-  - name: Ruby
-    web_url: https://www.ruby-lang.org/en/
-    image_url: assets/img/ruby.png
+  - name: C++
+    web_url: https://isocpp.org/
+    image_url: assets/img/cpp.jpg
 
-  - name: Go
-    web_url: https://golang.org
-    image_url: assets/img/golang.png
+  - name: Info Sec
+    web_url: https://www.reddit.com/r/netsec
+    image_url: assets/img/cybersec.png
 
-  - name: GraphQL
-    web_url: https://graphql.org/learn/
-    image_url: assets/img/graphql.png
+  - name: Malware Analysis
+    web_url: https://en.wikipedia.org/wiki/Malware_analysis
+    image_url: assets/img/bug.png
 
-  - name: ReactJS
-    web_url: https://icon-library.net/images/react-icon/react-icon-13.jpg
-    image_url: assets/img/react.png
+  - name: Swift
+    web_url: https://swift.org/
+    image_url: assets/img/swift.png
 
-  - name: AWS
-    web_url: https://aws.amazon.com
-    image_url: assets/img/aws.png
