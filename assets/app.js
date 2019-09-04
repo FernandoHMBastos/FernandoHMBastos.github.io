@@ -3,10 +3,10 @@ window.onload = function () {
     const tw = new Typewriter('#typewriter', { loop: true });
     tw.changeDelay(40).
         changeDeleteSpeed(5).
-        typeString('First, solve the problem,').
-        pauseFor(3_000).
-        deleteAll().
-        typeString('then write the code!').
+        typeString('_').
+        pauseFor(1_000).
+        // deleteAll().
+        typeString('Hello, friend.').
         pauseFor(10_000).
         start();
 }
