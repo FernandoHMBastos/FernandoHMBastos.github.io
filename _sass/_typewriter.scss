@@ -1,11 +1,13 @@
 /* Google Fonts */
-@import url(https://fonts.googleapis.com/css?family=Fira+Mono);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Mono);
 
 .typewriter-wrapper {
-    font-family: 'Fira Mono', monospace;
+    font-family: 'Roboto Mono', monospace;
     font-size: 150%;
-    color: white;
-    background-color: #5e3494 !important;
+    color: greenyellow;
+    background-color: black !important;
+    // background-color: #5e3494 !important;
+
 
     p {
       margin-bottom: 0;
